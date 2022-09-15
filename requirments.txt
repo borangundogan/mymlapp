@@ -1,4 +1,5 @@
-uvicorn
 fastapi
-numpy
 joblib
+sklearn
+uvicorn
+numpy
